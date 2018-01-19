@@ -1,0 +1,16 @@
+.jumbotron {
+	background-color: blue;
+	color: yellow;
+	}
+
+.panel > .panel-heading{
+
+	background-color: blue;
+	color: yellow;
+	
+}
+
+.btn{
+	background-color: blue;
+	color: yellow;
+}
